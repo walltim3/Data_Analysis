@@ -38,7 +38,7 @@ writeRss url =
           createDirectoryIfMissing True $ "./RSS_FEEDS"
           UC.writeFile ("./RSS_FEEDS/" ++ last(splitOn "/" url)) (UC.pack $ body)
         else
-          UC.writeFile ("./RSS_FEEDS/" ++last(splitOn "/" url)) (UC.pack $ "sdfvg")
+          UC.writeFile ("./RSS_FEEDS/" ++last(splitOn "/" url)) (UC.pack $ "Фід недоступний!")
 
     
 main = withUtf8 $ do
