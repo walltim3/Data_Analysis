@@ -22,12 +22,15 @@ description:         Please see the README on GitHub at <https://github.com/gith
 dependencies:
 - base >= 4.7 && < 5
 - xml
+- http-conduit
 - HTTP
 - text
 - with-utf8
 - bytestring
 - split
 - directory
+- time 
+
 library:
   source-dirs: src
 

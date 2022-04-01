@@ -3,17 +3,17 @@ module Main where
 import Control.Monad
 import Data.List (find)
 import Data.Maybe
-import Network.HTTP
-import Network.Stream
+import Network.HTTP.Conduit
 import System.Exit
 import System.Environment
 import System.IO as SIO
 import Text.XML.Light
-import Data.ByteString.Char8 as UC (putStrLn, pack, writeFile)
+import Data.ByteString.Lazy.Char8  as UC (ByteString, putStrLn, pack, writeFile, empty)
 import Main.Utf8
 import Data.List.Split
 import System.Directory (createDirectoryIfMissing)
-
+import Control.Exception as X
+import Data.Time
 
 readDataFrom fileHandle = 
   do 
@@ -27,18 +27,18 @@ readDataFrom fileHandle =
           writeRss $ url
           readDataFrom fileHandle
 
+statusExceptionHandler ::  X.SomeException -> IO UC.ByteString
+statusExceptionHandler e = putStr "An error occured during downloading\n" >> (return UC.empty)
 
 writeRss url = 
     do 
-      resp <- simpleHTTP (getRequest url)
-      code <- getResponseCode resp
-      if code == (2,0,0)
-        then do
-          body <- getResponseBody resp
-          createDirectoryIfMissing True $ "./RSS_FEEDS"
-          UC.writeFile ("./RSS_FEEDS/" ++ last(splitOn "/" url)) (UC.pack $ body)
-        else
-          UC.writeFile ("./RSS_FEEDS/" ++last(splitOn "/" url)) (UC.pack $ "Фід недоступний!")
+      createDirectoryIfMissing True $ "./RSS_FEEDS"
+      let name = splitOn "/" url
+      time <- getCurrentTime
+      let timeStamp = head(splitOn " " (show time)) -- ++ "_" ++ head(tail(splitOn " " (show time)))
+      resp <- (simpleHttp url) `X.catch` statusExceptionHandler
+      case resp of x | x == UC.empty ->  UC.writeFile ("./RSS_FEEDS/" ++ head(tail(tail(name))) ++ "_" ++ timeStamp ++ ".xml") (UC.pack $ "Фід недоступний!")    
+                     | otherwise     ->  UC.writeFile ("./RSS_FEEDS/" ++ head(tail(tail(name))) ++ "_" ++ timeStamp ++ ".xml") (resp)
 
     
 main = withUtf8 $ do
