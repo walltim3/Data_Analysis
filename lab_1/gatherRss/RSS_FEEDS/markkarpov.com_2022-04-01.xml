@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mark Karpov's Site</title>
+  <link href="https://markkarpov.com/feed.atom" rel="self"/>
+  <link href="https://markkarpov.com"/>
+  <id>https://markkarpov.com/feed.atom</id>
+  <author>
+    <name>Mark Karpov</name>
+    <email>markkarpov92@gmail.com</email>
+  </author>
+  <updated>2021-11-22T00:00:00Z</updated>
+  <entry>
+    <title>On the importance of having vision</title>
+    <link href="https://markkarpov.com/post/vision.html" />
+    <id>https://markkarpov.com/post/vision.html</id>
+    <published>2021-11-22T00:00:00Z</published>
+    <updated>2021-11-22T00:00:00Z</updated>
+    <summary type="html"><![CDATA[In this blog post I talk about a common principle that can guide creation in various domains such as art and software development.]]></summary>
+  </entry>
+  <entry>
+    <title>Evolution of my watercolor palette</title>
+    <link href="https://markkarpov.com/post/watercolor-palette.html" />
+    <id>https://markkarpov.com/post/watercolor-palette.html</id>
+    <published>2021-10-14T00:00:00Z</published>
+    <updated>2021-10-14T00:00:00Z</updated>
+    <summary type="html"><![CDATA[A description and evolution of my watercolor palette.]]></summary>
+  </entry>
+  <entry>
+    <title>Notes on watercolor equipment</title>
+    <link href="https://markkarpov.com/post/watercolor-equipment.html" />
+    <id>https://markkarpov.com/post/watercolor-equipment.html</id>
+    <published>2021-09-26T00:00:00Z</published>
+    <updated>2021-10-06T00:00:00Z</updated>
+    <summary type="html"><![CDATA[A description of watercolor equipment I use.]]></summary>
+  </entry>
+  <entry>
+    <title>Simulating Tenderbake</title>
+    <link href="https://www.tweag.io/blog/2021-05-21-tenderbake-simulator/" />
+    <id>https://www.tweag.io/blog/2021-05-21-tenderbake-simulator/</id>
+    <published>2021-05-21T00:00:00Z</published>
+    <updated>2021-05-21T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>Ormolu internship</title>
+    <link href="https://www.tweag.io/blog/2021-04-23-ormolu-intership/" />
+    <id>https://www.tweag.io/blog/2021-04-23-ormolu-intership/</id>
+    <published>2021-04-23T00:00:00Z</published>
+    <updated>2021-04-23T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>GitHub actions for Haskell CI</title>
+    <link href="https://markkarpov.com/post/github-actions-for-haskell-ci.html" />
+    <id>https://markkarpov.com/post/github-actions-for-haskell-ci.html</id>
+    <published>2020-07-15T00:00:00Z</published>
+    <updated>2021-09-08T00:00:00Z</updated>
+    <summary type="html"><![CDATA[The post explains how I use GitHub actions to setup Haskell CI.]]></summary>
+  </entry>
+  <entry>
+    <title>Setting up Buildkite for Nix-based projects using Terraform and GCP</title>
+    <link href="https://www.tweag.io/blog/2020-07-08-buildkite-for-nix-ci/" />
+    <id>https://www.tweag.io/blog/2020-07-08-buildkite-for-nix-ci/</id>
+    <published>2020-07-08T00:00:00Z</published>
+    <updated>2020-07-08T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>The story with data-default</title>
+    <link href="https://markkarpov.com/post/data-default.html" />
+    <id>https://markkarpov.com/post/data-default.html</id>
+    <published>2020-05-30T00:00:00Z</published>
+    <updated>2020-05-30T00:00:00Z</updated>
+    <summary type="html"><![CDATA[The post explains why data-default should not be used.]]></summary>
+  </entry>
+  <entry>
+    <title>Setting up a shared build cache using Bazel</title>
+    <link href="https://www.tweag.io/posts/2020-04-09-bazel-remote-cache.html" />
+    <id>https://www.tweag.io/posts/2020-04-09-bazel-remote-cache.html</id>
+    <published>2020-04-09T00:00:00Z</published>
+    <updated>2020-04-09T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>Struggling to forget</title>
+    <link href="https://markkarpov.com/post/struggling-to-forget.html" />
+    <id>https://markkarpov.com/post/struggling-to-forget.html</id>
+    <published>2020-01-03T00:00:00Z</published>
+    <updated>2020-01-03T00:00:00Z</updated>
+    <summary type="html"><![CDATA[In this post I show a use case and a way to implement conditional fixing of existentially quantified variables by universally quantified variables.]]></summary>
+  </entry>
+  <entry>
+    <title>Exposure without giving up artistic control</title>
+    <link href="https://markkarpov.com/post/exposure.html" />
+    <id>https://markkarpov.com/post/exposure.html</id>
+    <published>2020-01-02T00:00:00Z</published>
+    <updated>2021-09-08T00:00:00Z</updated>
+    <summary type="html"><![CDATA[This article is about getting perfect exposure without giving up any artistic control on modern digital cameras.]]></summary>
+  </entry>
+  <entry>
+    <title>Haskell vs OCaml</title>
+    <link href="https://markkarpov.com/post/haskell-vs-ocaml.html" />
+    <id>https://markkarpov.com/post/haskell-vs-ocaml.html</id>
+    <published>2019-12-06T00:00:00Z</published>
+    <updated>2019-12-11T00:00:00Z</updated>
+    <summary type="html"><![CDATA[This is a comparison between the two languages by someone who has written code professionally in both.]]></summary>
+  </entry>
+  <entry>
+    <title>Canon EOS R settings I use</title>
+    <link href="https://markkarpov.com/post/canon-eos-r-settings.html" />
+    <id>https://markkarpov.com/post/canon-eos-r-settings.html</id>
+    <published>2019-11-16T00:00:00Z</published>
+    <updated>2020-04-24T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Tweaks I made to the configuration of the Canon EOS R camera with explanations why.]]></summary>
+  </entry>
+  <entry>
+    <title>Digital photography workflow for Linux</title>
+    <link href="https://markkarpov.com/post/digital-photography-workflow.html" />
+    <id>https://markkarpov.com/post/digital-photography-workflow.html</id>
+    <published>2019-11-16T00:00:00Z</published>
+    <updated>2019-12-04T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Digital photgraphy workflow I use on Linux.]]></summary>
+  </entry>
+  <entry>
+    <title>Megaparsec 8</title>
+    <link href="https://markkarpov.com/post/megaparsec-8.html" />
+    <id>https://markkarpov.com/post/megaparsec-8.html</id>
+    <published>2019-11-07T00:00:00Z</published>
+    <updated>2019-11-07T00:00:00Z</updated>
+    <summary type="html"><![CDATA[New version of the parsing library has been released.]]></summary>
+  </entry>
+  <entry>
+    <title>Ormolu: announcing first release</title>
+    <link href="https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html" />
+    <id>https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html</id>
+    <published>2019-10-11T00:00:00Z</published>
+    <updated>2019-10-11T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>What does a humped critter have to teach us?</title>
+    <link href="https://markkarpov.com/post/what-does-a-humped-critter-have-to-teach-us.html" />
+    <id>https://markkarpov.com/post/what-does-a-humped-critter-have-to-teach-us.html</id>
+    <published>2019-09-29T00:00:00Z</published>
+    <updated>2019-09-29T00:00:00Z</updated>
+    <summary type="html"><![CDATA[The post compares OCaml&#39;s module system with Haskell&#39;s type classes.]]></summary>
+  </entry>
+  <entry>
+    <title>Why Haskell is important</title>
+    <link href="https://www.tweag.io/posts/2019-09-06-why-haskell-is-important.html" />
+    <id>https://www.tweag.io/posts/2019-09-06-why-haskell-is-important.html</id>
+    <published>2019-09-06T00:00:00Z</published>
+    <updated>2019-09-06T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>Ormolu: format Haskell code like never before</title>
+    <link href="https://www.tweag.io/posts/2019-05-27-ormolu.html" />
+    <id>https://www.tweag.io/posts/2019-05-27-ormolu.html</id>
+    <published>2019-05-27T00:00:00Z</published>
+    <updated>2019-05-27T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>The monads of Haskell</title>
+    <link href="https://markkarpov.com/post/the-monads.html" />
+    <id>https://markkarpov.com/post/the-monads.html</id>
+    <published>2019-04-16T00:00:00Z</published>
+    <updated>2019-04-16T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Let&#39;s talk about monads in Haskell.]]></summary>
+  </entry>
+  <entry>
+    <title>The types got you</title>
+    <link href="https://www.tweag.io/posts/2019-02-13-types-got-you.html" />
+    <id>https://www.tweag.io/posts/2019-02-13-types-got-you.html</id>
+    <published>2019-02-13T00:00:00Z</published>
+    <updated>2019-02-13T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>Existential quantification</title>
+    <link href="https://markkarpov.com/post/existential-quantification.html" />
+    <id>https://markkarpov.com/post/existential-quantification.html</id>
+    <published>2018-11-11T00:00:00Z</published>
+    <updated>2020-06-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[In this post I&#39;m going to give an idea of how existentials can be useful in Haskell.]]></summary>
+  </entry>
+  <entry>
+    <title>Megaparsec 7</title>
+    <link href="https://markkarpov.com/post/megaparsec-7.html" />
+    <id>https://markkarpov.com/post/megaparsec-7.html</id>
+    <published>2018-08-27T00:00:00Z</published>
+    <updated>2018-08-27T00:00:00Z</updated>
+    <summary type="html"><![CDATA[A post about the most important and exiciting changes in Megaparsec 7.]]></summary>
+  </entry>
+  <entry>
+    <title>Smart constructors that cannot fail</title>
+    <link href="https://markkarpov.com/post/smart-constructors-that-cannot-fail.html" />
+    <id>https://markkarpov.com/post/smart-constructors-that-cannot-fail.html</id>
+    <published>2018-06-16T00:00:00Z</published>
+    <updated>2018-06-16T00:00:00Z</updated>
+    <summary type="html"><![CDATA[The post describes design of a library which implements refined types. Novelty of the library is that it allows us to establish meaningful connections between properties and do logical conclusions.]]></summary>
+  </entry>
+  <entry>
+    <title>Announcing GHC syntax highlighter</title>
+    <link href="https://markkarpov.com/post/announcing-ghc-syntax-highlighter.html" />
+    <id>https://markkarpov.com/post/announcing-ghc-syntax-highlighter.html</id>
+    <published>2018-05-13T00:00:00Z</published>
+    <updated>2018-05-13T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Announcing GHC syntax highlighter, a package that allows to highlight Haskell code using lexer of GHC itself.]]></summary>
+  </entry>
+  <entry>
+    <title>Stackage HEAD is now live!</title>
+    <link href="https://www.tweag.io/posts/2018-04-17-stackage-head-is-live.html" />
+    <id>https://www.tweag.io/posts/2018-04-17-stackage-head-is-live.html</id>
+    <published>2018-04-17T00:00:00Z</published>
+    <updated>2018-04-17T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>Bazel now supports building Haskell</title>
+    <link href="https://www.tweag.io/posts/2018-02-28-bazel-haskell.html" />
+    <id>https://www.tweag.io/posts/2018-02-28-bazel-haskell.html</id>
+    <published>2018-02-28T00:00:00Z</published>
+    <updated>2018-02-28T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>MMark status update</title>
+    <link href="https://markkarpov.com/post/mmark-status-update.html" />
+    <id>https://markkarpov.com/post/mmark-status-update.html</id>
+    <published>2018-02-14T00:00:00Z</published>
+    <updated>2018-02-14T00:00:00Z</updated>
+    <summary type="html"><![CDATA[A short update about the MMark project.]]></summary>
+  </entry>
+  <entry>
+    <title>Req 1.0.0, HTTP client, and streaming</title>
+    <link href="https://markkarpov.com/post/req-1.0.0-http-client-and-streaming.html" />
+    <id>https://markkarpov.com/post/req-1.0.0-http-client-and-streaming.html</id>
+    <published>2017-12-02T00:00:00Z</published>
+    <updated>2017-12-02T00:00:00Z</updated>
+    <summary type="html"><![CDATA[In this post I describe essential changes to Req in version 1.0.0, dig into the low-level API of http-client, how it does streaming, and how it is used in Req.]]></summary>
+  </entry>
+  <entry>
+    <title>Announcing MMark</title>
+    <link href="https://markkarpov.com/post/announcing-mmark.html" />
+    <id>https://markkarpov.com/post/announcing-mmark.html</id>
+    <published>2017-11-17T00:00:00Z</published>
+    <updated>2017-11-17T00:00:00Z</updated>
+    <summary type="html"><![CDATA[In this post I talk about a new markdown processor I&#39;ve been working on.]]></summary>
+  </entry>
+  <entry>
+    <title>Short ByteString and Text</title>
+    <link href="https://markkarpov.com/post/short-bs-and-text.html" />
+    <id>https://markkarpov.com/post/short-bs-and-text.html</id>
+    <published>2017-10-30T00:00:00Z</published>
+    <updated>2017-10-30T00:00:00Z</updated>
+    <summary type="html"><![CDATA[We all know the ByteString and Text types, but are they always the best choice? What else does the Haskell ecosystem provide?]]></summary>
+  </entry>
+  <entry>
+    <title>Free monad considered harmful</title>
+    <link href="https://markkarpov.com/post/free-monad-considered-harmful.html" />
+    <id>https://markkarpov.com/post/free-monad-considered-harmful.html</id>
+    <published>2017-09-27T00:00:00Z</published>
+    <updated>2018-01-25T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Before you start writing your code using free monads read this, you may change your mind.]]></summary>
+  </entry>
+  <entry>
+    <title>Announcing Hasky Stack</title>
+    <link href="https://markkarpov.com/post/announcing-hasky-stack.html" />
+    <id>https://markkarpov.com/post/announcing-hasky-stack.html</id>
+    <published>2017-08-13T00:00:00Z</published>
+    <updated>2017-08-13T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Announing my new package for working with Haskell Tool Stack — Hasky Stack.]]></summary>
+  </entry>
+  <entry>
+    <title>Evolution of error messages</title>
+    <link href="https://markkarpov.com/post/evolution-of-error-messages.html" />
+    <id>https://markkarpov.com/post/evolution-of-error-messages.html</id>
+    <published>2017-07-26T00:00:00Z</published>
+    <updated>2017-07-26T00:00:00Z</updated>
+    <summary type="html"><![CDATA[The second and final post about Megaparsec 6 development. This time we walk through re-design of parse error messages.]]></summary>
+  </entry>
+  <entry>
+    <title>A major upgrade to Megaparsec: more speed, more power</title>
+    <link href="https://markkarpov.com/post/megaparsec-more-speed-more-power.html" />
+    <id>https://markkarpov.com/post/megaparsec-more-speed-more-power.html</id>
+    <published>2017-07-06T00:00:00Z</published>
+    <updated>2017-07-06T00:00:00Z</updated>
+    <summary type="html"><![CDATA[The post describes extension of the Stream type class that allowed to make the Megaparsec library more efficient and simplify code base.]]></summary>
+  </entry>
+  <entry>
+    <title>Path 0.6.0 released</title>
+    <link href="https://markkarpov.com/post/path-0.6.0-released.html" />
+    <id>https://markkarpov.com/post/path-0.6.0-released.html</id>
+    <published>2017-06-16T00:00:00Z</published>
+    <updated>2017-06-16T00:00:00Z</updated>
+    <summary type="html"><![CDATA[It took some time, but the most popular Haskell library for dealing with well-typed paths got to its next (semi)-major version, yay!]]></summary>
+  </entry>
+  <entry>
+    <title>Migrating text metrics to pure Haskell</title>
+    <link href="https://markkarpov.com/post/migrating-text-metrics.html" />
+    <id>https://markkarpov.com/post/migrating-text-metrics.html</id>
+    <published>2017-06-13T00:00:00Z</published>
+    <updated>2017-06-13T00:00:00Z</updated>
+    <summary type="html"><![CDATA[One more blog post about Haskell competing with C in speed.]]></summary>
+  </entry>
+  <entry>
+    <title>Working with text without pain</title>
+    <link href="https://markkarpov.com/post/working-with-text-without-pain.html" />
+    <id>https://markkarpov.com/post/working-with-text-without-pain.html</id>
+    <published>2017-06-07T00:00:00Z</published>
+    <updated>2017-06-07T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Hints how to make your typing experience more pleasant and protect yourself from RSI in the future.]]></summary>
+  </entry>
+  <entry>
+    <title>New site</title>
+    <link href="https://markkarpov.com/post/new-site.html" />
+    <id>https://markkarpov.com/post/new-site.html</id>
+    <published>2017-06-06T00:00:00Z</published>
+    <updated>2017-06-06T00:00:00Z</updated>
+    <summary type="html"><![CDATA[I&#39;ve set up a new site where I&#39;ll host my blog, tutorials, and more.]]></summary>
+  </entry>
+  <entry>
+    <title>Putting together a form validation library</title>
+    <link href="https://markkarpov.com/post/putting-together-a-form-validation-library.html" />
+    <id>https://markkarpov.com/post/putting-together-a-form-validation-library.html</id>
+    <published>2017-05-02T00:00:00Z</published>
+    <updated>2017-06-06T00:00:00Z</updated>
+    <summary type="html"><![CDATA[A write-up about motivation and design of the forma library.]]></summary>
+  </entry>
+  <entry>
+    <title>Hapistrano&#39;s new features</title>
+    <link href="https://www.stackbuilders.com/news/hapistrano-s-new-features" />
+    <id>https://www.stackbuilders.com/news/hapistrano-s-new-features</id>
+    <published>2017-03-29T00:00:00Z</published>
+    <updated>2017-03-29T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>Latest additions to Megaparsec</title>
+    <link href="https://markkarpov.com/post/latest-additions-to-megaparsec.html" />
+    <id>https://markkarpov.com/post/latest-additions-to-megaparsec.html</id>
+    <published>2016-11-24T00:00:00Z</published>
+    <updated>2017-06-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[This blog post summarizes new features added to Megaparsec in the second half of 2016.]]></summary>
+  </entry>
+  <entry>
+    <title>Category Theory Basics, Part I</title>
+    <link href="https://markkarpov.com/post/category-theory-part-1.html" />
+    <id>https://markkarpov.com/post/category-theory-part-1.html</id>
+    <published>2016-09-18T00:00:00Z</published>
+    <updated>2017-06-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Category theory notions in simple to understand (I hope), but concise form, part I.]]></summary>
+  </entry>
+  <entry>
+    <title>Concurrent Haskell in the real world</title>
+    <link href="https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world" />
+    <id>https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world</id>
+    <published>2016-08-02T00:00:00Z</published>
+    <updated>2016-08-02T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>Cassava Megaparsec library released</title>
+    <link href="https://www.stackbuilders.com/news/cassava-megaparsec-library-released" />
+    <id>https://www.stackbuilders.com/news/cassava-megaparsec-library-released</id>
+    <published>2016-06-29T00:00:00Z</published>
+    <updated>2016-06-29T00:00:00Z</updated>
+    <summary type="html"><![CDATA[]]></summary>
+  </entry>
+  <entry>
+    <title>The Identicon package</title>
+    <link href="https://markkarpov.com/post/the-identicon-package.html" />
+    <id>https://markkarpov.com/post/the-identicon-package.html</id>
+    <published>2016-05-28T00:00:00Z</published>
+    <updated>2017-06-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[My new Identicon package for identicon generation.]]></summary>
+  </entry>
+  <entry>
+    <title>Announcing Megaparsec 5</title>
+    <link href="https://markkarpov.com/post/announcing-megaparsec-5.html" />
+    <id>https://markkarpov.com/post/announcing-megaparsec-5.html</id>
+    <published>2016-05-15T00:00:00Z</published>
+    <updated>2017-06-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Finally Megaparsec 5 is out, what&#39;s new?]]></summary>
+  </entry>
+  <entry>
+    <title>The true power of Dvorak</title>
+    <link href="https://markkarpov.com/post/dvorak-rocks.html" />
+    <id>https://markkarpov.com/post/dvorak-rocks.html</id>
+    <published>2016-03-15T00:00:00Z</published>
+    <updated>2017-06-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[My experience with the Dvorak layout.]]></summary>
+  </entry>
+  <entry>
+    <title>Megaparsec 4 and 5</title>
+    <link href="https://markkarpov.com/post/megaparsec-4-and-5.html" />
+    <id>https://markkarpov.com/post/megaparsec-4-and-5.html</id>
+    <published>2016-02-23T00:00:00Z</published>
+    <updated>2017-06-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[What we have achieved with version 4 of Megaparsec and what is planned in version 5.]]></summary>
+  </entry>
+  <entry>
+    <title>Lisp and Haskell</title>
+    <link href="https://markkarpov.com/post/lisp-and-haskell.html" />
+    <id>https://markkarpov.com/post/lisp-and-haskell.html</id>
+    <published>2015-10-23T00:00:00Z</published>
+    <updated>2019-11-23T00:00:00Z</updated>
+    <summary type="html"><![CDATA[How I finally decided what is better (for me), Lisp or Haskell?]]></summary>
+  </entry>
+</feed>
