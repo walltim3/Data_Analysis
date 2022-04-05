@@ -1,0 +1,400 @@
+{
+"title":"On the importance of having vision",
+"textBody":"In this blog post I talk about a common principle that can guide creation in various domains such as art and software development.",
+"source":"Mark Karpov's Site",
+"PubDate":"2021-11-22T00:00:00Z",
+"URL":" https://markkarpov.com/post/vision.html "
+}
+,
+{
+"title":"Evolution of my watercolor palette",
+"textBody":"A description and evolution of my watercolor palette.",
+"source":"Mark Karpov's Site",
+"PubDate":"2021-10-14T00:00:00Z",
+"URL":" https://markkarpov.com/post/watercolor-palette.html "
+}
+,
+{
+"title":"Notes on watercolor equipment",
+"textBody":"A description of watercolor equipment I use.",
+"source":"Mark Karpov's Site",
+"PubDate":"2021-10-06T00:00:00Z",
+"URL":" https://markkarpov.com/post/watercolor-equipment.html "
+}
+,
+{
+"title":"Simulating Tenderbake",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2021-05-21T00:00:00Z",
+"URL":" https://www.tweag.io/blog/2021-05-21-tenderbake-simulator/ "
+}
+,
+{
+"title":"Ormolu internship",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2021-04-23T00:00:00Z",
+"URL":" https://www.tweag.io/blog/2021-04-23-ormolu-intership/ "
+}
+,
+{
+"title":"GitHub actions for Haskell CI",
+"textBody":"The post explains how I use GitHub actions to setup Haskell CI.",
+"source":"Mark Karpov's Site",
+"PubDate":"2021-09-08T00:00:00Z",
+"URL":" https://markkarpov.com/post/github-actions-for-haskell-ci.html "
+}
+,
+{
+"title":"Setting up Buildkite for Nix-based projects using Terraform and GCP",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2020-07-08T00:00:00Z",
+"URL":" https://www.tweag.io/blog/2020-07-08-buildkite-for-nix-ci/ "
+}
+,
+{
+"title":"The story with data-default",
+"textBody":"The post explains why data-default should not be used.",
+"source":"Mark Karpov's Site",
+"PubDate":"2020-05-30T00:00:00Z",
+"URL":" https://markkarpov.com/post/data-default.html "
+}
+,
+{
+"title":"Setting up a shared build cache using Bazel",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2020-04-09T00:00:00Z",
+"URL":" https://www.tweag.io/posts/2020-04-09-bazel-remote-cache.html "
+}
+,
+{
+"title":"Struggling to forget",
+"textBody":"In this post I show a use case and a way to implement conditional fixing of existentially quantified variables by universally quantified variables.",
+"source":"Mark Karpov's Site",
+"PubDate":"2020-01-03T00:00:00Z",
+"URL":" https://markkarpov.com/post/struggling-to-forget.html "
+}
+,
+{
+"title":"Exposure without giving up artistic control",
+"textBody":"This article is about getting perfect exposure without giving up any artistic control on modern digital cameras.",
+"source":"Mark Karpov's Site",
+"PubDate":"2021-09-08T00:00:00Z",
+"URL":" https://markkarpov.com/post/exposure.html "
+}
+,
+{
+"title":"Haskell vs OCaml",
+"textBody":"This is a comparison between the two languages by someone who has written code professionally in both.",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-12-11T00:00:00Z",
+"URL":" https://markkarpov.com/post/haskell-vs-ocaml.html "
+}
+,
+{
+"title":"Canon EOS R settings I use",
+"textBody":"Tweaks I made to the configuration of the Canon EOS R camera with explanations why.",
+"source":"Mark Karpov's Site",
+"PubDate":"2020-04-24T00:00:00Z",
+"URL":" https://markkarpov.com/post/canon-eos-r-settings.html "
+}
+,
+{
+"title":"Digital photography workflow for Linux",
+"textBody":"Digital photgraphy workflow I use on Linux.",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-12-04T00:00:00Z",
+"URL":" https://markkarpov.com/post/digital-photography-workflow.html "
+}
+,
+{
+"title":"Megaparsec 8",
+"textBody":"New version of the parsing library has been released.",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-11-07T00:00:00Z",
+"URL":" https://markkarpov.com/post/megaparsec-8.html "
+}
+,
+{
+"title":"Ormolu: announcing first release",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-10-11T00:00:00Z",
+"URL":" https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html "
+}
+,
+{
+"title":"What does a humped critter have to teach us?",
+"textBody":"The post compares OCaml&#39;s module system with Haskell&#39;s type classes.",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-09-29T00:00:00Z",
+"URL":" https://markkarpov.com/post/what-does-a-humped-critter-have-to-teach-us.html "
+}
+,
+{
+"title":"Why Haskell is important",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-09-06T00:00:00Z",
+"URL":" https://www.tweag.io/posts/2019-09-06-why-haskell-is-important.html "
+}
+,
+{
+"title":"Ormolu: format Haskell code like never before",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-05-27T00:00:00Z",
+"URL":" https://www.tweag.io/posts/2019-05-27-ormolu.html "
+}
+,
+{
+"title":"The monads of Haskell",
+"textBody":"Let&#39;s talk about monads in Haskell.",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-04-16T00:00:00Z",
+"URL":" https://markkarpov.com/post/the-monads.html "
+}
+,
+{
+"title":"The types got you",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-02-13T00:00:00Z",
+"URL":" https://www.tweag.io/posts/2019-02-13-types-got-you.html "
+}
+,
+{
+"title":"Existential quantification",
+"textBody":"In this post I&#39;m going to give an idea of how existentials can be useful in Haskell.",
+"source":"Mark Karpov's Site",
+"PubDate":"2020-06-01T00:00:00Z",
+"URL":" https://markkarpov.com/post/existential-quantification.html "
+}
+,
+{
+"title":"Megaparsec 7",
+"textBody":"A post about the most important and exiciting changes in Megaparsec 7.",
+"source":"Mark Karpov's Site",
+"PubDate":"2018-08-27T00:00:00Z",
+"URL":" https://markkarpov.com/post/megaparsec-7.html "
+}
+,
+{
+"title":"Smart constructors that cannot fail",
+"textBody":"The post describes design of a library which implements refined types. Novelty of the library is that it allows us to establish meaningful connections between properties and do logical conclusions.",
+"source":"Mark Karpov's Site",
+"PubDate":"2018-06-16T00:00:00Z",
+"URL":" https://markkarpov.com/post/smart-constructors-that-cannot-fail.html "
+}
+,
+{
+"title":"Announcing GHC syntax highlighter",
+"textBody":"Announcing GHC syntax highlighter, a package that allows to highlight Haskell code using lexer of GHC itself.",
+"source":"Mark Karpov's Site",
+"PubDate":"2018-05-13T00:00:00Z",
+"URL":" https://markkarpov.com/post/announcing-ghc-syntax-highlighter.html "
+}
+,
+{
+"title":"Stackage HEAD is now live!",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2018-04-17T00:00:00Z",
+"URL":" https://www.tweag.io/posts/2018-04-17-stackage-head-is-live.html "
+}
+,
+{
+"title":"Bazel now supports building Haskell",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2018-02-28T00:00:00Z",
+"URL":" https://www.tweag.io/posts/2018-02-28-bazel-haskell.html "
+}
+,
+{
+"title":"MMark status update",
+"textBody":"A short update about the MMark project.",
+"source":"Mark Karpov's Site",
+"PubDate":"2018-02-14T00:00:00Z",
+"URL":" https://markkarpov.com/post/mmark-status-update.html "
+}
+,
+{
+"title":"Req 1.0.0, HTTP client, and streaming",
+"textBody":"In this post I describe essential changes to Req in version 1.0.0, dig into the low-level API of http-client, how it does streaming, and how it is used in Req.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-12-02T00:00:00Z",
+"URL":" https://markkarpov.com/post/req-1.0.0-http-client-and-streaming.html "
+}
+,
+{
+"title":"Announcing MMark",
+"textBody":"In this post I talk about a new markdown processor I&#39;ve been working on.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-11-17T00:00:00Z",
+"URL":" https://markkarpov.com/post/announcing-mmark.html "
+}
+,
+{
+"title":"Short ByteString and Text",
+"textBody":"We all know the ByteString and Text types, but are they always the best choice? What else does the Haskell ecosystem provide?",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-10-30T00:00:00Z",
+"URL":" https://markkarpov.com/post/short-bs-and-text.html "
+}
+,
+{
+"title":"Free monad considered harmful",
+"textBody":"Before you start writing your code using free monads read this, you may change your mind.",
+"source":"Mark Karpov's Site",
+"PubDate":"2018-01-25T00:00:00Z",
+"URL":" https://markkarpov.com/post/free-monad-considered-harmful.html "
+}
+,
+{
+"title":"Announcing Hasky Stack",
+"textBody":"Announing my new package for working with Haskell Tool Stack — Hasky Stack.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-08-13T00:00:00Z",
+"URL":" https://markkarpov.com/post/announcing-hasky-stack.html "
+}
+,
+{
+"title":"Evolution of error messages",
+"textBody":"The second and final post about Megaparsec 6 development. This time we walk through re-design of parse error messages.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-07-26T00:00:00Z",
+"URL":" https://markkarpov.com/post/evolution-of-error-messages.html "
+}
+,
+{
+"title":"A major upgrade to Megaparsec: more speed, more power",
+"textBody":"The post describes extension of the Stream type class that allowed to make the Megaparsec library more efficient and simplify code base.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-07-06T00:00:00Z",
+"URL":" https://markkarpov.com/post/megaparsec-more-speed-more-power.html "
+}
+,
+{
+"title":"Path 0.6.0 released",
+"textBody":"It took some time, but the most popular Haskell library for dealing with well-typed paths got to its next (semi)-major version, yay!",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-16T00:00:00Z",
+"URL":" https://markkarpov.com/post/path-0.6.0-released.html "
+}
+,
+{
+"title":"Migrating text metrics to pure Haskell",
+"textBody":"One more blog post about Haskell competing with C in speed.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-13T00:00:00Z",
+"URL":" https://markkarpov.com/post/migrating-text-metrics.html "
+}
+,
+{
+"title":"Working with text without pain",
+"textBody":"Hints how to make your typing experience more pleasant and protect yourself from RSI in the future.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-07T00:00:00Z",
+"URL":" https://markkarpov.com/post/working-with-text-without-pain.html "
+}
+,
+{
+"title":"New site",
+"textBody":"I&#39;ve set up a new site where I&#39;ll host my blog, tutorials, and more.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-06T00:00:00Z",
+"URL":" https://markkarpov.com/post/new-site.html "
+}
+,
+{
+"title":"Putting together a form validation library",
+"textBody":"A write-up about motivation and design of the forma library.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-06T00:00:00Z",
+"URL":" https://markkarpov.com/post/putting-together-a-form-validation-library.html "
+}
+,
+{
+"title":"Hapistrano&#39;s new features",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-03-29T00:00:00Z",
+"URL":" https://www.stackbuilders.com/news/hapistrano-s-new-features "
+}
+,
+{
+"title":"Latest additions to Megaparsec",
+"textBody":"This blog post summarizes new features added to Megaparsec in the second half of 2016.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-01T00:00:00Z",
+"URL":" https://markkarpov.com/post/latest-additions-to-megaparsec.html "
+}
+,
+{
+"title":"Category Theory Basics, Part I",
+"textBody":"Category theory notions in simple to understand (I hope), but concise form, part I.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-01T00:00:00Z",
+"URL":" https://markkarpov.com/post/category-theory-part-1.html "
+}
+,
+{
+"title":"Concurrent Haskell in the real world",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2016-08-02T00:00:00Z",
+"URL":" https://www.stackbuilders.com/news/concurrent-haskell-in-the-real-world "
+}
+,
+{
+"title":"Cassava Megaparsec library released",
+"textBody":"",
+"source":"Mark Karpov's Site",
+"PubDate":"2016-06-29T00:00:00Z",
+"URL":" https://www.stackbuilders.com/news/cassava-megaparsec-library-released "
+}
+,
+{
+"title":"The Identicon package",
+"textBody":"My new Identicon package for identicon generation.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-01T00:00:00Z",
+"URL":" https://markkarpov.com/post/the-identicon-package.html "
+}
+,
+{
+"title":"Announcing Megaparsec 5",
+"textBody":"Finally Megaparsec 5 is out, what&#39;s new?",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-01T00:00:00Z",
+"URL":" https://markkarpov.com/post/announcing-megaparsec-5.html "
+}
+,
+{
+"title":"The true power of Dvorak",
+"textBody":"My experience with the Dvorak layout.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-01T00:00:00Z",
+"URL":" https://markkarpov.com/post/dvorak-rocks.html "
+}
+,
+{
+"title":"Megaparsec 4 and 5",
+"textBody":"What we have achieved with version 4 of Megaparsec and what is planned in version 5.",
+"source":"Mark Karpov's Site",
+"PubDate":"2017-06-01T00:00:00Z",
+"URL":" https://markkarpov.com/post/megaparsec-4-and-5.html "
+}
+,
+{
+"title":"Lisp and Haskell",
+"textBody":"How I finally decided what is better (for me), Lisp or Haskell?",
+"source":"Mark Karpov's Site",
+"PubDate":"2019-11-23T00:00:00Z",
+"URL":" https://markkarpov.com/post/lisp-and-haskell.html "
+}
+,
