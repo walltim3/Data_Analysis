@@ -1,0 +1,74 @@
+{%extends 'base.html' %}
+
+{% block title %}
+Upload
+{% endblock %}
+
+{% block body %}
+
+<main>
+    <div class="py-5 text-center">
+
+        <h2>Adding Data</h2>
+        <p class="lead">Choose either file or form to input new data to Elasticsearch</p>
+    </div>
+
+    <div class="container">
+
+        <div class="container">
+            <h4 class="col-12 text-center">Address of the Elasticsearch</h4>
+            <form class="needs-validation" novalidate="">
+                <div class="col-lg-12 col-lg-offset-4">
+                    <div class="col-lg-12 col-lg-offset-4">
+                        <input type="text" class="container" id="address" placeholder="" value="" required="">
+                        <div class="invalid-feedback">
+                            Elasticsearch Server Address
+                        </div><br><br>
+                    </div>
+                    <div class="row row-cols-1 row-cols-md-2 mb-2 text-center">
+                        <div class="col">
+                            <div class="card mb-4 rounded-3 shadow-sm">
+                                <div class="card-header py-3">
+                                    <h4 class="my-0 fw-normal">File</h4>
+                                </div>
+                                <div class="card-body">
+                                    <form action="/action_page.php">
+                                        <input type="file" id="myfile" name="myfile"><br><br>
+                                        <button type="button"
+                                            class="w-100 btn btn-lg btn-outline-primary">Submit</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card mb-4 rounded-3 shadow-sm">
+                                <div class="card-header py-3">
+                                    <h4 class="my-0 fw-normal">Manually</h4>
+                                </div>
+                                <div class="card-body">
+                                    <form action="/action_page.php">
+                                        <label for="myfile">Select a file:</label>
+                                        <input type="text" class="container" id="1" placeholder="" value="" required="">
+                                        <label for="myfile">Select a file:</label>
+                                        <input type="text" class="container" id="2" placeholder="" value="" required="">
+                                        <label for="myfile">Select a file:</label>
+                                        <input type="text" class="container" id="3" placeholder="" value="" required="">
+                                        <label for="myfile">Select a file:</label>
+                                        <input type="text" class="container" id="4" placeholder="" value="" required="">
+                                        <label for="myfile">Select a file:</label>
+                                        <input type="text" class="container" id="5" placeholder="" value="" required="">
+                                        <br><br>
+                                        <button type="button" class="w-100 btn btn-lg btn-primary">Submit</button>
+
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</main>
+
+{% endblock %}

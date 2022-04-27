@@ -1,0 +1,31 @@
+{%extends 'base.html' %}
+
+{% block title %}
+Root
+{% endblock %}
+
+{% block body %}
+<div class="container py-4">
+	<div class="row align-items-md-center">
+		<div class="row-md-3">
+			<div class="h-100 p-5 text-white bg-dark rounded-3">
+				<h2>Updates</h2>
+				<p>Upload the data to Elasticsearch via json file or add manually created record</p>
+				<a href="/upload" class="btn btn-outline-light">
+					Go to Updates
+				</a>
+			</div>
+		</div>
+		<div class="row-md-3">
+			<div class="h-100 p-5 bg-light border rounded-3">
+				<h2>Query</h2>
+				<p>Investigate the data available in Elasticsearch</p>
+				<a href="/download" class="btn btn-outline-secondary">
+					Go to Query
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+{% endblock %}
